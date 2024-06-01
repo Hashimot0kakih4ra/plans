@@ -1,0 +1,302 @@
+TITLE: Esoteric Equations in Quantum Metaphysics, Matrix Derivations, Perturbations and Hyperdimensional Fluid Dynamics
+
+Equation 1: Quantum Entanglement Coefficient (QEC)  
+QEC = ∫e^(iαx) ∂^2/∂t^2 (Ψ(x,t)) dx
+
+Equation 2: Epsilon-Sigma Convergence Theorem  
+lim(ε→0) ∑[k=1]^(n) ∫[0]^(π/2) (sin(εk) / (1 + εk^σ)) dθ = 1  
+
+Equation 3: Multiversal Tensor Expansion  
+T^i_αβ = η^i^p ( ∂_α ∂_β Φ_p - ∂_α ∂_p Φ_β - ∂_β ∂_p Φ_α + Φ_α ∂_β ∂_p φ + Φ_β ∂_α ∂_p φ - Φ_p ∂_α ∂_β φ)  
+
+Equation 4: Fermi-Dirac Distribution  
+f(E)=1e(E−μ)/kT+1f(E)=e(E−μ)/kT+11​  
+
+Equation 5: Black Hole Entropy (Bekenstein-Hawking Formula)  
+SBH=kA4ℓp2SBH​=4ℓp2​kA​  
+
+Equation 6: Planck Distribution Law  
+B(λ,T)=2hc2λ51ehc/λkT−1B(λ,T)=λ52hc2​ehc/λkT−11​  
+
+Equation 8: Gibbs Free Energy Change  
+ΔG=ΔH−TΔSΔG=ΔH−TΔS  
+
+Equation 9: Euler's Reflection Formula  
+Γ(z)Γ(1−z)=πsin⁡(πz)Γ(z)Γ(1−z)=sin(πz)π​  
+
+Equation 10: Fibonacci Spiral Equation  
+r=c⋅ϕkr=c⋅ϕk  
+
+Equation 11: Central Limit Theorem  
+Z=X−μσ/nZ=σ/nX−μ​  
+
+Equation 12: Kolmogorov-Smirnov Test  
+D=max⁡∣Fn(x)−F(x)∣D=max∣Fn​(x)−F(x)∣  
+
+Equation 13: Hardy-Weinberg Equilibrium  
+p2+2pq+q2=1p2+2pq+q2=1  
+
+Equation 14: Ising Model Energy  
+E=−J∑⟨ij⟩sisj−h∑isiE=−J∑⟨ij⟩​si​sj​−h∑i​si​  
+
+Equation 15: Archimedes' Principle  
+Fbuoyant=ρfluid⋅g⋅VdisplacedFbuoyant​=ρfluid​⋅g⋅Vdisplaced​  
+
+Equation 16: Ampère's Circuital Law  
+∮B⋅dl=μ0Ienc∮B⋅dl=μ0​Ienc​  
+
+Equation 17: Quantum Gravitational Wave Equation  
+∇2hμν−2c2∂2hμν∂t2=−16πG(Tμν−12gμνT)∇2hμν​−c22​∂t2∂2hμν​​=−16πG(Tμν​−21​gμν​T)  
+
+Equation 18: Fractal Dimension Calculation  
+D=lim⁡ϵ→0log⁡(N(ϵ))log⁡(1/ϵ)D=limϵ→0​log(1/ϵ)log(N(ϵ))​  
+
+Equation 19: Generalized Uncertainty Principle  
+Δx⋅Δp≥ℏ2(1+β(Δp)2+γ(Δp)4)Δx⋅Δp≥2ℏ​(1+β(Δp)2+γ(Δp)4)  
+
+Equation 20: Schwarzschild Radius Calculation  
+rs=2GMc2rs​=c22GM​  
+
+Equation 21: Quantum Harmonic Oscillator Energy Levels
+En=ℏω(n+12)En​=ℏω(n+21​)
+
+Equation 22: Schrödinger Equation for Hydrogen Atom
+(−ℏ22μ∇2−e2r+Vspin-orbit+VSO)ψ=Eψ(−2μℏ2​∇2−re2​+Vspin-orbit​+VSO​)ψ=Eψ
+
+Equation 23: Navier-Stokes Equation (Incompressible Flow)
+ρ(∂v∂t+v⋅∇v)=−∇p+μ∇2v+ρgρ(∂t∂v​+v⋅∇v)=−∇p+μ∇2v+ρg
+
+Equation 24: Lorenz Gauge Condition
+∇⋅A+1c2∂ϕ∂t=0∇⋅A+c21​∂t∂ϕ​=0
+
+Equation 25: Time-Dependent Schrödinger Equation
+iℏ∂Ψ∂t=H^Ψiℏ∂t∂Ψ​=H^Ψ
+
+Equation 26: Riemann Hypothesis
+ζ(s)=∑n=1∞1nsζ(s)=∑n=1∞​ns1​
+
+Equation 27: Dirac Equation
+iℏ∂ψ∂t=cα⋅pψ+βmc2ψiℏ∂t∂ψ​=cα⋅pψ+βmc2ψ
+
+Equation 28: Quantum Field Theory Lagrangian
+L=ψˉ(iγμ∂μ−m)ψ−14FμνFμνL=ψˉ​(iγμ∂μ​−m)ψ−41​Fμν​Fμν
+
+Equation 29: Maxwell's Equations (Integral Form)
+∮E⋅dA=Qencε0∮E⋅dA=ε0​Qenc​​
+
+Equation 30: Feynman Path Integral
+K(x′′,x′;T)=∫D[x(t)]exp⁡(iℏ∫0TLdt)K(x′′,x′;T)=∫D[x(t)]exp(ℏi​∫0T​Ldt)
+
+Equation 31: Euler-Lagrange Equation
+ddt(∂L∂q˙j)−∂L∂qj=0dtd​(∂q˙​j​∂L​)−∂qj​∂L​=0
+
+Equation 32: Black-Scholes Equation (European Option Pricing)
+∂V∂t+12σ2S2∂2V∂S2+rS∂V∂S−rV=0∂t∂V​+21​σ2S2∂S2∂2V​+rS∂S∂V​−rV=0
+
+Equation 33: Laplace's Equation
+∇2ϕ=0∇2ϕ=0
+
+Equation 34: Gibbs Free Energy
+G=H−TSG=H−TS
+
+Equation 35: Shannon Entropy
+H(X)=−∑i=1np(xi)log⁡2p(xi)H(X)=−∑i=1n​p(xi​)log2​p(xi​)
+
+Equation 36: Fourier Transform
+F(ω)=∫−∞∞f(t)e−iωtdtF(ω)=∫−∞∞​f(t)e−iωtdt !!!!!!!!!!!!!!
+
+Equation 37: Biot-Savart Law
+B(r)=μ04π∫J(r′)×(r−r′)∣r−r′∣3dτB(r)=4πμ0​​∫∣r−r′∣3J(r′)×(r−r′)​dτ
+
+Equation 38: Stokes' Theorem
+∮CF⋅dr=∫S(∇×F)⋅dS∮C​F⋅dr=∫S​(∇×F)⋅dS
+
+Equation 39: Cauchy's Integral Formula
+f(a)=12πi∮Cf(z)z−adzf(a)=2πi1​∮C​z−af(z)​dz
+
+Equation 40: Ideal Gas Law
+PV=nRTPV=nRT
+
+Equation 41: Boltzmann's Entropy Formula
+S=klog⁡ΩS=klogΩ
+
+Equation 42: Heat Equation
+∂u∂t=α∇2u∂t∂u​=α∇2uDskndsn739HNamds==
+
+Equation 43: Ricci Curvature Tensor
+Rμν=∂σΓμνσ−∂νΓμσσ+ΓσμαΓνασ−ΓσναΓμασRμν​=∂σ​Γμνσ​−∂ν​Γμσσ​+Γσμα​Γνασ​−Γσνα​Γμασ​
+
+Equation 44: Gamma Function
+Γ(z)=∫0∞tz−1e−tdtΓ(z)=∫0∞​tz−1e−tdt
+
+Equation 45: Wave Equation
+∂2u∂t2=c2∇2u∂t2∂2u​=c2∇2u
+
+Equation 46: Fermat's Principle (Principle of Least Time)
+δ∫n(r)ds=0δ∫n(r)ds=0
+
+Equation 47: Helmholtz Decomposition Theorem
+F=−∇ϕ+∇×AF=−∇ϕ+∇×A
+
+Equation 48: Larmor Formula (Power Radiated by an Accelerated Charge)
+P=23q2a2c3P=32​c3q2a2​
+
+Equation 49: Planck-Einstein Relation
+E=hfE=hf
+
+Equation 50: Lorentz Transformation
+x′=γ(x−vt)x′=γ(x−vt)
+
+Equation 51: Schrödinger's Cat Paradox
+(α∣↑⟩+β∣↓⟩)(12∣alive⟩+12∣dead⟩)(α∣↑⟩+β∣↓⟩)(2
+​1​∣alive⟩+2​1​∣dead⟩)
+
+Equation 52: Dirac Delta Function
+δ(x−x0)={+∞,x=x00,x≠x0δ(x−x0​)={+∞,0,​x=x0​x=x0​​
+
+Equation 53: Gibbs-Duhem Equation
+SdT−VdP+Ndμ=0SdT−VdP+Ndμ=0
+
+Equation 54: Fermat's Last Theorem
+xn+yn≠zn for n>2xn+yn=zn for n>2
+
+Equation 55: Bayes' Theorem
+P(A∣B)=P(B∣A)⋅P(A)P(B)P(A∣B)=P(B)P(B∣A)⋅P(A)​
+
+Equation 56: Vandermonde Determinant
+det⁡[1x1x12⋯x1n−11x2x22⋯x2n−1⋮⋮⋮⋱⋮1xnxn2⋯xnn−1]=∏1≤i<j≤n(xj−xi)det⎣
+⎡​11⋮1​x1​x2​⋮xn​​x12​x22​⋮xn2​​⋯⋯⋱⋯​x1n−1​x2n−1​⋮xnn−1​​⎦
+
+⎤​=∏1≤i<j≤n​(xj​−xi​)
+
+Equation 57: Laplace Transform
+F(s)=∫0∞e−stf(t)dtF(s)=∫0∞​e−stf(t)dt
+
+Equation 58: Heisenberg Uncertainty Principle
+Δx⋅Δp≥ℏ2Δx⋅Δp≥2ℏ​
+
+Equation 59: Lorentz Force Law
+F=q(E+v×B)F=q(E+v×B)
+
+Equation 60: Fibonacci Sequence
+F(n)=F(n−1)+F(n−2)F(n)=F(n−1)+F(n−2)
+
+Equation 61: Kepler's Third Law (Law of Periods)
+T2=4π2G(M1+M2)a3T2=G(M1​+M2​)4π2​a3
+
+Equation 62: Gibbs Phase Rule
+F=C−P+2F=C−P+2
+
+Equation 63: Quantum Gravity Singularity Hypothesis
+R_uv - 1/2 g_uv R + Λ g_uv = 8πG/c^4 T_uv + Φ_uv
+
+Equation 64: Shannon-Hartley Theorem (Channel Capacity)
+C=B⋅log⁡2(1+SNR)C=B⋅log2​(1+SNR)ShhzbAznpaSM==
+
+Equation 65: Euler's Formula (Polyhedron)
+V−E+F=2V−E+F=2
+
+Equation 66: Poisson's Equation
+∇2Φ=−ρε0∇2Φ=−ε0​ρ​
+
+Equation 67: Gauss's Law for Magnetism
+∇⋅B=0∇⋅B=0
+
+Equation 68: Lorentz Factor
+γ=11−v2/c2γ=1−v2/c2​1​
+
+Equation 69: Fermi-Dirac Distribution
+f(E)=1e(NjkgaXMgbXkgZmF2b3VyaXRlIG51bWJlciA8Mw==)/kT+1f(E)=e(E−μ)/kT+11​
+
+Equation 70: Black Hole Entropy (Bekenstein-Hawking Formula)
+SBH=kA4ℓp2SBH​=4ℓp2​kA​==
+
+Equation 71: Planck Distribution Law
+B(λ,T)=2hc2λ51ehc/λkT−1B(λ,T)=λ52hc2​ehc/λkT−11​
+
+Equation 72: Gibbs Free Energy Change
+ΔG=ΔH−TΔSΔG=ΔH−TΔS
+
+Equation 73: Euler's Reflection Formula
+p = 9EEADi^^A2DE63:?]4@>^&A<AI6>e
+
+Equation 74: Fibonacci Spiral Equation
+r=c⋅ϕkr=c⋅ϕk
+
+Equation 75: Central Limit Theorem
+Z=X−μσ/nZ=σ/n​X−μ​
+
+Equation 76: Kolmogorov-Smirnov Test
+D=max⁡∣Fn(x)−F(x)∣D=max∣Fn​(x)−F(x)∣
+
+Equation 77: Hardy-Weinberg Equilibrium
+p2+2pq+q2=1p2+2pq+q2=1
+
+Equation 78: Ising Model Energy
+E=−J∑⟨ij⟩sisj−h∑isiE=−J∑⟨ij⟩​si​sj​−h∑i​si​
+
+Equation 79: Archimedes' Principle
+Fbuoyant=ρfluid⋅g⋅VdisplacedFbuoyant​=ρfluid​⋅g⋅Vdisplaced​
+
+Equation 80: Ampère's Circuital Law
+∮B⋅dl=μ0Ienc∮B⋅dl=μ0​Ienc​
+
+Equation 81: Poiseuille's Law (Fluid Flow)
+Q=πΔPr48ηlQ=8ηlπΔPr4​
+
+Equation 82: Coulomb's Law (Electric Force)
+F=k⋅∣q1⋅q2∣r2F=r2k⋅∣q1​⋅q2​∣​
+
+Equation 83: Rayleigh-Jeans Law (Black Body Radiation)
+B(ν,T)=2ν2kTc2B(ν,T)=c22ν2kT​
+
+Equation 84: Gravitational Potential Energy
+U=−GMmrU=−rGMm​
+
+Equation 85: Doppler Effect (Frequency)
+f′=f(v±vrv∓vs)f′=f(v∓vs​v±vr​​)
+
+Equation 86: Arrhenius Equation (Reaction Rate)
+k=A⋅e−Ea/RTk=A⋅e−Ea​/RT
+
+Equation 87: Wiener Process (Brownian Motion)
+W(t)=t⋅ZW(t)=t⋅Z
+
+Equation 88: Euler's Disk Equations (Physics Toy)
+ω˙=mgRI⋅ωω˙=I⋅ωmgR​
+
+Equation 89: Sigmoid Function (Logistic Function)
+σ(x)=11+e−xσ(x)=1+e−x1​
+
+Equation 90: Biot-Savart Law (Magnetic Field)
+B(r)=μ04π∫J(r′)×(r−r′)∣r−r′∣3dτB(r)=4πμ0​​∫∣r−r′∣3J(r′)×(r−r′)​dτ
+
+Equation 91: Euler's Formula (Complex Analysis)
+eiθ=cos⁡(θ)+isin⁡(θ)eiθ=cos(θ)+isin(θ)
+
+Equation 92: Newton's Law of Cooling
+dTdt=−k(T−Ta)dtdT​=−k(T−Ta​)
+
+Equation 93: Schwarzschild Metric (Black Hole)
+ds2=−(1−rsr)c2dt2+dr2(1−rsr)+r2(dθ2+sin⁡2θdϕ2)ds2=−(1−rrs​​)c2dt2+(1−rrs​​)dr2​+r2(dθ2+sin2θdϕ2)
+
+Equation 94: Lagrange Multipliers
+∇f(x)=λ∇g(x)∇f(x)=λ∇g(x)
+
+Equation 95: Nernst Equation (Electrochemical Potential)
+E=E∘−RTnFln⁡(Q)E=E∘−nFRT​ln(Q)
+
+Equation 96: Laplace-Runge-Lenz Vector (Kepler Problem)
+A=p×L−mkrrA=p×L−rmk​r
+
+Equation 97: Breit-Wigner Formula (Resonance)
+σ(E)=σ0πΓ/2(E−E0)2+(Γ/2)2σ(E)=πσ0​​(E−E0​)2+(Γ/2)2Γ/2​
+
+Equation 98: Wien's Displacement Law (Black Body Radiation)
+λmaxT=bλmax​T=b
+
+Equation 99: Faraday's Law of Electromagnetic Induction
+E=−dΦdtE=−dtdΦ​
+
+Equation 100: Fermat's Principle of Least Time
+δ∫n(r)ds=0δ∫n(r)ds=0
