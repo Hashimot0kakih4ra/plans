@@ -300,3 +300,4 @@ E=−dΦdtE=−dtdΦ​
 
 Equation 100: Fermat's Principle of Least Time
 δ∫n(r)ds=0δ∫n(r)ds=0
+ 
