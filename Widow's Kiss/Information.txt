@@ -218,7 +218,7 @@ Equation 72: Gibbs Free Energy Change
 ΔG=ΔH−TΔSΔG=ΔH−TΔS
 
 Equation 73: Euler's Reflection Formula
-p = 9EEADi^^A2DE63:?]4@>^&A<AI6>e
+p = f'(x)
 
 Equation 74: Fibonacci Spiral Equation
 r=c⋅ϕkr=c⋅ϕk
